@@ -1,4 +1,4 @@
-# Maximilian Martinez Github Page
+## Maximilian Martinez Github Page
 
 Hello! My name is Maximilian Martinez and this is my Github page.
 
